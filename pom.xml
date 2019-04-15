@@ -6,7 +6,7 @@
 
     <groupId>org.maven.git</groupId>
     <artifactId>testMaven</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>2.0-SNAPSHOT</version>
 
 
 </project>
