@@ -4,9 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>org.test</groupId>
     <artifactId>mavenTest3</artifactId>
     <version>1.0-SNAPSHOT</version>
+=======
+    <groupId>org.maven.git</groupId>
+    <artifactId>testMaven</artifactId>
+    <version>8.0-SNAPSHOT</version>
+>>>>>>> 6f90f6718f71c64a9860964329e19deb2123aca2
 
 
 </project>

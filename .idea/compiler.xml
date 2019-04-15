@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="mavenTest3" />
+=======
+        <module name="testMaven" />
+>>>>>>> 6f90f6718f71c64a9860964329e19deb2123aca2
       </profile>
     </annotationProcessing>
   </component>
